@@ -126,7 +126,7 @@ Supported languages:
 
 # Google Play
 
-Coming soon / Available on Google Play
+https://play.google.com/store/apps/details?id=com.superpinger
 
 ---
 
